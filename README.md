@@ -7,7 +7,7 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <a href="https://react.dev/" target="_blank">
+      <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       </a>
       <br>React
