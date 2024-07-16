@@ -25,7 +25,9 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
+      <a href="https://cplusplus.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      </a>
       <br>C++
     </td>
     <td align="center" width="96">
