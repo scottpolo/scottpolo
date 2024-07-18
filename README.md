@@ -43,7 +43,9 @@
       <br>MySQL
     </td>
     <td align="center" width="96">
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      </a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
