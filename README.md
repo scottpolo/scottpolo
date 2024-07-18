@@ -37,7 +37,9 @@
       <br>Webpack
     </td>
     <td align="center" width="96">
+      <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      </a>
       <br>MySQL
     </td>
     <td align="center" width="96">
