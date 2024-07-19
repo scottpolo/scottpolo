@@ -78,7 +78,9 @@
       <br>Git
     </td>
     <td align="center"  width="96">
+      <a href="https://laravel.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+      </a>
       <br>Laravel
     </td>
     <td align="center"  width="96">
