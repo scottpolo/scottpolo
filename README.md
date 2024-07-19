@@ -66,11 +66,15 @@
       </a>
       <br>Django
     <td align="center" width="96">
+      <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      </a>
       <br>Github
     </td>
     <td align="center" width="96"> 
+      <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      </a>
       <br>Git
     </td>
     <td align="center"  width="96">
