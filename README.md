@@ -31,19 +31,27 @@
       <br>C++
     </td>
     <td align="center" width="96">
+      <a href="https://webpack.js.org/" target="_blank" rel="noopener noreferrer">
         <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
+      </a>
       <br>Webpack
     </td>
     <td align="center" width="96">
+      <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      </a>
       <br>MySQL
     </td>
     <td align="center" width="96">
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      </a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
+      <a href="https://aws.amazon.com/console/" target="_blank" rel="noopener noreferrer">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      </a>
       <br>AWS
     </td>
     <td align="center" width="96">
@@ -52,27 +60,39 @@
     </td>
   </tr>
   <tr>
-  <td align="center" width="96">
+    <td align="center" width="96">
+      <a href="https://www.djangoproject.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      </a>
       <br>Django
     <td align="center" width="96">
+      <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      </a>
       <br>Github
     </td>
     <td align="center" width="96"> 
+      <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      </a>
       <br>Git
     </td>
     <td align="center"  width="96">
+      <a href="https://laravel.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+      </a>
       <br>Laravel
     </td>
     <td align="center"  width="96">
+      <a href="https://www.w3schools.com/html/" target="_blank" rel="noopener noreferrer">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      </a>
       <br>HTML5
     </td>
     <td align="center" width="96">
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      </a>
       <br>CSS
     </td>
     <td align="center"  width="96">
