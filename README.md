@@ -84,11 +84,15 @@
       <br>Laravel
     </td>
     <td align="center"  width="96">
+      <a href="https://www.w3schools.com/html/" target="_blank" rel="noopener noreferrer">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      </a>
       <br>HTML5
     </td>
     <td align="center" width="96">
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      </a>
       <br>CSS
     </td>
     <td align="center"  width="96">
