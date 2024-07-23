@@ -96,7 +96,9 @@
       <br>CSS
     </td>
     <td align="center"  width="96">
+      <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      </a>
       <br>Bootstrap
     </td>
     <td align="center" width="96">
