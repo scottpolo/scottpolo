@@ -108,7 +108,9 @@
       <br>Tailwind
     </td>
     <td align="center" width="96">
+      <a href="https://jquery.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
+      </a>
       <br>jQuery
     </td>
   </tr>
