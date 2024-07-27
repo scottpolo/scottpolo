@@ -121,11 +121,12 @@
       </a>
       <br>MongoDB
     </td>
-        <td align="center" width="96">
+    <td align="center" width="96">
+      <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+      </a>
       <br>Nodejs
-      </td>
-      </td>
+    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
       <br>PHP
