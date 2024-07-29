@@ -128,10 +128,12 @@
       <br>Nodejs
     </td>
     <td align="center" width="96">
+      <a href="https://www.php.net/" target="_blank" rel="noopener noreferrer">
         <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+      </a>
       <br>PHP
     </td>
-              <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
       <br>WordPress
     </td>
