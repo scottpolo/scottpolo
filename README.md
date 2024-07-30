@@ -134,7 +134,9 @@
       <br>PHP
     </td>
     <td align="center" width="96">
+      <a href="https://www.wordpress.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
+      </a>
       <br>WordPress
     </td>
               <td align="center" width="96">
