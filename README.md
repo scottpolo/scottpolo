@@ -139,8 +139,10 @@
       </a>
       <br>WordPress
     </td>
-              <td align="center" width="96">
+    <td align="center" width="96">
+      <a href="https://www.vuejs.org/" target="_blank" rel="noopener noreferrer">
         <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+      </a>
       <br>Vue
     </td>
               <td align="center" width="96">
