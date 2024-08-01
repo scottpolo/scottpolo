@@ -145,8 +145,10 @@
       </a>
       <br>Vue
     </td>
-              <td align="center" width="96">
+    <td align="center" width="96">
+      <a href="https://www.sass-lang.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
+      </a>
       <br>Sass
     </td>
               <td align="center" width="96">
