@@ -151,8 +151,10 @@
       </a>
       <br>Sass
     </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
+    <td align="center" width="96">
+      <a href="https://www.graphql.org/" target="_blank" rel="noopener noreferrer">
+        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
+      </a>
       <br>GraphQL
     </td>
     <td align="center" width="96">
